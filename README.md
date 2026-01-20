@@ -66,9 +66,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ### Om Abhishek Tripathi
 
-![Om Abhishek Tripathi](./public/admin-profile.jpg)
+<div align="center">
+  <img src="./public/admin-profile.jpg.jpeg" alt="Om Abhishek Tripathi" width="200" height="200" style="border-radius: 50%; border: 3px solid #3b82f6;">
+</div>
 
-*Project Administrator & Lead Developer*
+**Project Administrator & Lead Developer**
 
 Om Abhishek Tripathi is the primary administrator and lead developer of the StudyBuddy project, overseeing all development aspects and ensuring the project's smooth execution.
 
