@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import React from "react";
+export const dynamic = "force-dynamic";
 
 const NotFound = () => {
   return (
