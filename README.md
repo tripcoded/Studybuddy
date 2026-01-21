@@ -7,7 +7,19 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
+**[🚀 Live Demo](https://studybuddy-black-seven.vercel.app)** | **[📖 Documentation](#quick-start)** | **[🐛 Report Issues](https://github.com/tripcoded/Studybuddy/issues)**
+
 StudyBuddy is a comprehensive platform designed to help Computer Science students excel in their careers. From resume building to interview preparation, we've got you covered.
+
+---
+
+## 🖼️ Screenshots
+
+![StudyBuddy Homepage](./public/screenshot.png)
+
+*StudyBuddy - Your Study Companion for Professional Success*
+
+---
 
 ---
 
@@ -253,6 +265,6 @@ For questions or support, please:
   
   ⭐ If you find this project helpful, please consider giving it a star!
   
-  [GitHub](https://github.com/tripcoded/Studybuddy) | [Live Demo](https://studybuddy.vercel.app)
+  **[🔗 Live Site](https://studybuddy-black-seven.vercel.app)** | **[📚 GitHub](https://github.com/tripcoded/Studybuddy)** | **[💬 Issues](https://github.com/tripcoded/Studybuddy/issues)**
   
 </div>
